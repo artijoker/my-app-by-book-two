@@ -1,0 +1,25 @@
+.TrafficLight{
+    
+    margin: 10px;
+    border: solid 2px gray;
+    border-radius: 15px;
+	
+	display: inline-flex!important;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.TrafficLight button{
+    margin: 10px;
+    border-radius: 15px;
+    background-color: lightgray;
+    width: 250px;
+    height: 250px;
+    font-size: 35px;
+    user-select: none;
+}
+
+.TrafficLight button:hover{
+    background-color: lightblue;
+}

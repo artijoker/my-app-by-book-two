@@ -1,0 +1,10 @@
+.TrafficLight{
+    margin: 10px;
+    border: solid 2px gray;
+    border-radius: 15px;
+	
+	display: inline-flex!important;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+}

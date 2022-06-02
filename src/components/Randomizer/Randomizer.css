@@ -1,0 +1,13 @@
+.Randomizer{
+    padding: 150px 0;
+}
+
+.Randomizer p{
+    font-size: 3.2rem;
+}
+
+
+.Randomizer button{
+    padding: 15px;
+    font-size: 25px;
+}
